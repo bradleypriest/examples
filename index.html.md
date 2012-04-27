@@ -7,7 +7,7 @@ title: Examples
 As required by law, our JavaScript framework includes a Todos demo.
 
 <a href="/examples/todos/">Visit Todos</a> |
-<a href="https://github.com/emberjs/todos">Source</a>
+<a href="https://github.com/emberjs/examples/tree/master/todos">Source</a>
 <a href="/examples/todos/">
 <img src="/images/screenshots/todos.png" class="screenshot">
 </a>
@@ -15,7 +15,8 @@ As required by law, our JavaScript framework includes a Todos demo.
 ## Simple Bindings
 This demo contains an example a simple view bound to a controller.
 
-<a href="/examples/simple_bindings/">Visit Simple Bindings</a>
+<a href="/examples/simple_bindings/">Visit Simple Bindings</a> |
+<a href="https://github.com/emberjs/examples/tree/master/simple_bindings">Source</a>
 <a href="/examples/simple_bindings/">
 <img src="/images/screenshots/simple_bindings.png" class="screenshot">
 </a>
@@ -30,6 +31,7 @@ into a controller.
 
 
 <a href="/examples/contacts/">Visit Contacts</a>
+<a href="https://github.com/emberjs/examples/tree/master/contacts">Source</a>
 <a href="/examples/contacts/">
   <img src="/images/screenshots/contacts.png" class="screenshot">
 </a>
